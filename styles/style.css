@@ -131,7 +131,7 @@ body{
 .main{
     text-align: center;
     align-items: center;
-    margin-top: 151.55px;
+    margin-top: 51.55px;
 }
 
 .container{
@@ -179,7 +179,7 @@ body{
 
 @media (min-width: 1024px){
     .main{
-        margin-top: 127px;
+        margin-top: 37px;
     }
     .main_text{
         gap: 16px;
@@ -197,7 +197,7 @@ body{
 
 @media (min-width: 1280px){
     .main{
-        margin-top: 197px;
+        margin-top: 57px;
     }
     .main_text{
         gap: 16px;
@@ -220,7 +220,7 @@ body{
 .join_text_block{
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100.5px;
+    margin-top: 10.5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
