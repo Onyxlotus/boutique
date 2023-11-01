@@ -31,9 +31,9 @@ body{
     margin-right: 26px;
 }
 
-.logo_block{
+/* .logo_block{
 
-}
+} */
 
 .logo{
     width: 106.25px;
@@ -56,10 +56,10 @@ body{
 .menu_block_active{
     transform: translateX(0%);
 }
-
+/* 
 .menu_img{
     
-}
+} */
 
 .menu{
     width: 30px;
@@ -212,10 +212,10 @@ body{
         font-size: 20px;
     }
 }
-
+/* 
 .sign_up{
 
-}
+} */
 
 .join_text_block{
     margin-left: auto;
@@ -321,7 +321,7 @@ body{
     gap: 10.66px;
 }
 
-.insta{
+/* .insta{
 
 }
 
@@ -331,7 +331,7 @@ body{
 
 .facebook{
 
-}
+} */
 
 @media (min-width: 1024px){
     .footer{
